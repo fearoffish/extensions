@@ -22,7 +22,7 @@
     "@raycast/api": "^1.27.0",
     "fast-xml-parser": "^3.20.3",
     "html-entities": "^2.3.2",
-    "node-fetch": "^3.0.0",
+    "node-fetch": "^3.1.1",
     "tempy": "^2.0.0"
   },
   "devDependencies": {
