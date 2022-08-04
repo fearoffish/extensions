@@ -55,7 +55,7 @@
     "@raycast/api": "^1.26.1",
     "bitbucket": "^2.7.0",
     "dot-object": "^2.1.4",
-    "node-fetch": "^3.0.0",
+    "node-fetch": "^3.1.1",
     "node-localstorage": "^2.2.1",
     "swr": "1.1.2-beta.0"
   },
