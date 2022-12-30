@@ -25,7 +25,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.25.0",
+    "@raycast/api": "^1.45.2",
     "execa": "^6.0.0",
     "macos-audio-devices": "^1.4.0"
   },
